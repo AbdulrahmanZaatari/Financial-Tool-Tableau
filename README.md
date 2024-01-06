@@ -16,7 +16,7 @@ This repository contains a comprehensive data visualization dashboard designed t
 
 Welcome to the comprehensive project designed to navigate and make sense of the extensive data from the Forbes list of top companies. In an era where data is abundant, the ability to interpret it effectively is crucial for strategic decision-making. Our dashboard serves as a powerful tool in this regard, transforming raw data into visual stories that provide clear insights into the global corporate landscape.
 
-The Forbes top companies’ dataset, which forms the backbone of this dashboard, contains a wealth of information about companies that lead the world in revenue, profits, market value, and influence. Data visualization is not just about presenting data; it's about uncovering the truths hidden within numbers and making them accessible to all stakeholders. It empowers users to detect patterns, trends, and outliers quickly, which would be less apparent in spreadsheets or reports.
+The Forbes top companies’ dataset, merged, cleaned and transformed fully by us forms the backbone of this dashboard, and contains a wealth of information about companies that lead the world in revenue, profits, market value, and influence. Data visualization is not just about presenting data; it's about uncovering the truths hidden within numbers and making them accessible to all stakeholders. It empowers users to detect patterns, trends, and outliers quickly, which would be less apparent in spreadsheets or reports.
 
 Whether you're a business analyst, an investor, a policymaker, or simply a data enthusiast, this dashboard is designed to cater to your curiosity and provide you with the answers you need. 📈
 
