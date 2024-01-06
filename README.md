@@ -32,7 +32,7 @@ Moreover, Tableau's dashboard functionality brings together multiple visualizati
 
 Tableau was not just a choice but a strategic asset for our dashboard project. It has enabled us to transform the static data from Forbes into a dynamic exploration tool. 📊
 
-## Dataset Information 📂
+## <a name="dataset-information"></a>Dataset Information 📂
 
 ### Merging Multiple Datasets
 
@@ -65,7 +65,7 @@ Tableau was not just a choice but a strategic asset for our dashboard project. I
 
 - Issues with duplicate or missing rankings within the dataset were addressed. Unique rankings were reassigned to each company, maintaining the ranking system's integrity.
 
-## Business Questions & Dashboards 📈
+## <a name="business-questions--dashboards"></a>Business Questions & Dashboards 📈
 
 The dashboards were crafted to address a critical scenario: the investors are interested in investing in a specific company sought the insights of a data analyst to navigate this decision. Each dashboard features diverse visualizations strategically designed to answer specific business questions addressing the investment dilemma.
 
@@ -116,7 +116,7 @@ Finally, the now hopefully more informed investors will be able to analyze how t
 
 This project aims to assist users in making informed investment decisions by providing a visually-rich exploration of Forbes' top companies' data. Whether you're an investor seeking financial insights or an analyst interested in industry trends, this dashboard will guide you through the data-driven journey.
 
-## Figures 🖼️
+## <a name="figures"></a>Figures 🖼️
 
 Here are the figures related to the project for reference:
 
