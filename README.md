@@ -6,13 +6,13 @@ This repository contains a comprehensive data visualization dashboard designed t
 
 ## Table of Contents 📄
 
-1. [Introduction 👋](#introduction-👋)
-2. [Tools for Visualization 🔧](#tools-for-visualization-🔧)
-3. [Dataset Information 📂](#dataset-information-📂)
-4. [Business Questions & Dashboards 📈](#business-questions--dashboards-📈)
-5. [Figures 🖼️](#figures-🖼️)
+1. [Introduction](#introduction)
+2. [Tools for Visualization](#tools-for-visualization)
+3. [Dataset Information](#dataset-information)
+4. [Business Questions & Dashboards](#business-questions--dashboards)
+5. [Figures](#figures)
 
-## Introduction 👋
+## <a name="introduction"></a>Introduction 👋
 
 Welcome to the comprehensive project designed to navigate and make sense of the extensive data from the Forbes list of top companies. In an era where data is abundant, the ability to interpret it effectively is crucial for strategic decision-making. Our dashboard serves as a powerful tool in this regard, transforming raw data into visual stories that provide clear insights into the global corporate landscape.
 
@@ -22,7 +22,7 @@ Whether you're a business analyst, an investor, a policymaker, or simply a data 
 
 In the following sections, we will guide you through the functionalities of the dashboard, the questions it can answer, and how to interpret its findings.
 
-## Tools for Visualization 🔧
+## <a name="tools-for-visualization"></a>Tools for Visualization 🔧
 
 For the visualization and analysis of the Forbes top companies’ data, we have chosen Tableau, a platform renowned for its extensive data visualization capabilities. Tableau stands out in the realm of business intelligence tools for its intuitive design, allowing users to create complex data visualizations without the need for extensive technical skills.
 
