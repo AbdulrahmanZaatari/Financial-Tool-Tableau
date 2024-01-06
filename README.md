@@ -6,11 +6,11 @@ This repository contains a comprehensive data visualization dashboard designed t
 
 ## Table of Contents 📄
 
-1. [Introduction](#introduction)
-2. [Tools for Visualization](#tools-for-visualization)
-3. [Dataset Information](#dataset-information)
-4. [Business Questions & Dashboards](#business-questions--dashboards)
-5. [Figures](#figures)
+1. [Introduction 👋](#introduction-👋)
+2. [Tools for Visualization 🔧](#tools-for-visualization-🔧)
+3. [Dataset Information 📂](#dataset-information-📂)
+4. [Business Questions & Dashboards 📈](#business-questions--dashboards-📈)
+5. [Figures 🖼️](#figures-🖼️)
 
 ## Introduction 👋
 
